@@ -9,6 +9,9 @@ const config = {
     }),
     paths: {
       base: '/willitrun'
+    },
+    prerender: {
+      handleHttpError: 'warn'
     }
   },
   vitePlugin: {
