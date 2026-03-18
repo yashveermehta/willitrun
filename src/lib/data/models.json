@@ -1,0 +1,272 @@
+[
+  {
+    "id": "llama-3.1-8b-q4km",
+    "name": "Llama 3.1 8B",
+    "params_b": 8.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 4.92,
+    "kv_per_1k_gb": 0.122,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "llama-3.1-8b-q8-0",
+    "name": "Llama 3.1 8B",
+    "params_b": 8.0,
+    "quantization": "Q8_0",
+    "weight_gb": 8.54,
+    "kv_per_1k_gb": 0.122,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "llama-3.2-3b-q4km",
+    "name": "Llama 3.2 3B",
+    "params_b": 3.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 2.02,
+    "kv_per_1k_gb": 0.061,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "llama-3.2-3b-q8-0",
+    "name": "Llama 3.2 3B",
+    "params_b": 3.0,
+    "quantization": "Q8_0",
+    "weight_gb": 3.42,
+    "kv_per_1k_gb": 0.061,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "llama-3.2-1b-q4km",
+    "name": "Llama 3.2 1B",
+    "params_b": 1.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 0.77,
+    "kv_per_1k_gb": 0.031,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "qwen-2.5-7b-q4km",
+    "name": "Qwen 2.5 7B",
+    "params_b": 7.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 4.68,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "qwen-2.5-7b-q8-0",
+    "name": "Qwen 2.5 7B",
+    "params_b": 7.0,
+    "quantization": "Q8_0",
+    "weight_gb": 8.1,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "qwen-2.5-14b-q4km",
+    "name": "Qwen 2.5 14B",
+    "params_b": 14.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 9.0,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "qwen-2.5-32b-q4km",
+    "name": "Qwen 2.5 32B",
+    "params_b": 32.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 20.0,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "mistral-7b-v0.3-q4km",
+    "name": "Mistral 7B v0.3",
+    "params_b": 7.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 4.37,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 32,
+    "notes": "Starter model"
+  },
+  {
+    "id": "phi-4-14b-q4km",
+    "name": "Phi-4 14B",
+    "params_b": 14.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 8.5,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 16,
+    "notes": "Starter model"
+  },
+  {
+    "id": "gemma-2-9b-q4km",
+    "name": "Gemma 2 9B",
+    "params_b": 9.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 5.44,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 8,
+    "notes": "Starter model"
+  },
+  {
+    "id": "gemma-2-27b-q4km",
+    "name": "Gemma 2 27B",
+    "params_b": 27.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 16.0,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 8,
+    "notes": "Starter model"
+  },
+  {
+    "id": "deepseek-r1-7b-q4km",
+    "name": "DeepSeek-R1 7B",
+    "params_b": 7.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 4.68,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "deepseek-r1-14b-q4km",
+    "name": "DeepSeek-R1 14B",
+    "params_b": 14.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 9.0,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "deepseek-r1-32b-q4km",
+    "name": "DeepSeek-R1 32B",
+    "params_b": 32.0,
+    "quantization": "Q4_K_M",
+    "weight_gb": 20.0,
+    "kv_per_1k_gb": 0.098,
+    "max_context_k": 128,
+    "notes": "Starter model"
+  },
+  {
+    "id": "stories15m-moe-q8-0",
+    "name": "Stories15M_Moe",
+    "params_b": null,
+    "quantization": "Q8_0",
+    "weight_gb": 0.04,
+    "kv_per_1k_gb": 0.0064,
+    "max_context_k": 0,
+    "notes": "Auto-added from ggml-org/stories15M_MOE. config.json: layers=6, kv_heads=6, head_dim=None"
+  },
+  {
+    "id": "gpt-oss-20b-gguf-q4-k-m",
+    "name": "Gpt Oss 20B Gguf",
+    "params_b": null,
+    "quantization": "Q4_K_M",
+    "weight_gb": 10.83,
+    "kv_per_1k_gb": 0.0458,
+    "max_context_k": 131,
+    "notes": "Auto-added from unsloth/gpt-oss-20b-GGUF. config.json: layers=24, kv_heads=8, head_dim=64"
+  },
+  {
+    "id": "gpt-oss-20b-gguf-q8-0",
+    "name": "Gpt Oss 20B Gguf",
+    "params_b": null,
+    "quantization": "Q8_0",
+    "weight_gb": 11.28,
+    "kv_per_1k_gb": 0.0458,
+    "max_context_k": 131,
+    "notes": "Auto-added from unsloth/gpt-oss-20b-GGUF. config.json: layers=24, kv_heads=8, head_dim=64"
+  },
+  {
+    "id": "gpt-oss-20b-gguf-q6-k",
+    "name": "Gpt Oss 20B Gguf",
+    "params_b": null,
+    "quantization": "Q6_K",
+    "weight_gb": 11.21,
+    "kv_per_1k_gb": 0.0458,
+    "max_context_k": 131,
+    "notes": "Auto-added from unsloth/gpt-oss-20b-GGUF. config.json: layers=24, kv_heads=8, head_dim=64"
+  },
+  {
+    "id": "jina-embeddings-v5-text-small-retrieval-q4-k-m",
+    "name": "Jina Embeddings V5 Text Small Retrieval",
+    "params_b": null,
+    "quantization": "Q4_K_M",
+    "weight_gb": 0.37,
+    "kv_per_1k_gb": 0.1068,
+    "max_context_k": 33,
+    "notes": "Auto-added from jinaai/jina-embeddings-v5-text-small-retrieval. config.json: layers=28, kv_heads=8, head_dim=128"
+  },
+  {
+    "id": "jina-embeddings-v5-text-small-retrieval-q8-0",
+    "name": "Jina Embeddings V5 Text Small Retrieval",
+    "params_b": null,
+    "quantization": "Q8_0",
+    "weight_gb": 0.6,
+    "kv_per_1k_gb": 0.1068,
+    "max_context_k": 33,
+    "notes": "Auto-added from jinaai/jina-embeddings-v5-text-small-retrieval. config.json: layers=28, kv_heads=8, head_dim=128"
+  },
+  {
+    "id": "jina-embeddings-v5-text-small-retrieval-q6-k",
+    "name": "Jina Embeddings V5 Text Small Retrieval",
+    "params_b": null,
+    "quantization": "Q6_K",
+    "weight_gb": 0.46,
+    "kv_per_1k_gb": 0.1068,
+    "max_context_k": 33,
+    "notes": "Auto-added from jinaai/jina-embeddings-v5-text-small-retrieval. config.json: layers=28, kv_heads=8, head_dim=128"
+  },
+  {
+    "id": "mixtral-8x22b-v0-1-gguf-q4-k-m",
+    "name": "Mixtral 8X22B V0.1 Gguf",
+    "params_b": null,
+    "quantization": "Q4_K_M",
+    "weight_gb": 18.61,
+    "kv_per_1k_gb": 0.2136,
+    "max_context_k": 66,
+    "notes": "Auto-added from MaziyarPanahi/Mixtral-8x22B-v0.1-GGUF. config.json: layers=56, kv_heads=8, head_dim=None"
+  },
+  {
+    "id": "mixtral-8x22b-v0-1-gguf-q8-0",
+    "name": "Mixtral 8X22B V0.1 Gguf",
+    "params_b": null,
+    "quantization": "Q8_0",
+    "weight_gb": 31.61,
+    "kv_per_1k_gb": 0.2136,
+    "max_context_k": 66,
+    "notes": "Auto-added from MaziyarPanahi/Mixtral-8x22B-v0.1-GGUF. config.json: layers=56, kv_heads=8, head_dim=None"
+  },
+  {
+    "id": "mixtral-8x22b-v0-1-gguf-q6-k",
+    "name": "Mixtral 8X22B V0.1 Gguf",
+    "params_b": null,
+    "quantization": "Q6_K",
+    "weight_gb": 24.44,
+    "kv_per_1k_gb": 0.2136,
+    "max_context_k": 66,
+    "notes": "Auto-added from MaziyarPanahi/Mixtral-8x22B-v0.1-GGUF. config.json: layers=56, kv_heads=8, head_dim=None"
+  },
+  {
+    "id": "mixtral-8x22b-v0-1-gguf-fp16",
+    "name": "Mixtral 8X22B V0.1 Gguf",
+    "params_b": null,
+    "quantization": "fp16",
+    "weight_gb": 42.34,
+    "kv_per_1k_gb": 0.2136,
+    "max_context_k": 66,
+    "notes": "Auto-added from MaziyarPanahi/Mixtral-8x22B-v0.1-GGUF. config.json: layers=56, kv_heads=8, head_dim=None"
+  }
+]

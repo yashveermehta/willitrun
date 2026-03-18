@@ -1,0 +1,13 @@
+node_modules/
+build/
+.svelte-kit/
+.env
+.env.*
+!.env.example
+*.gguf
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+err*.txt
