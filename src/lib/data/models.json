@@ -268,5 +268,61 @@
     "kv_per_1k_gb": 0.2136,
     "max_context_k": 66,
     "notes": "Auto-added from MaziyarPanahi/Mixtral-8x22B-v0.1-GGUF. config.json: layers=56, kv_heads=8, head_dim=None"
+  },
+  {
+    "id": "hyperclovax-seed-text-instruct-1-5b-q4-k-m-gguf-q4-k-m",
+    "name": "Hyperclovax Seed Text Instruct 1.5B Q4_K_M Gguf",
+    "quantization": "Q4_K_M",
+    "weight_gb": 1.06,
+    "kv_per_1k_gb": 0.0916,
+    "max_context_k": 131
+  },
+  {
+    "id": "gpt-oss-120b-gguf-q4-k-m",
+    "name": "Gpt Oss 120B Gguf",
+    "quantization": "Q4_K_M",
+    "weight_gb": 46.22,
+    "kv_per_1k_gb": 0.0687,
+    "max_context_k": 131
+  },
+  {
+    "id": "gpt-oss-120b-gguf-q8-0",
+    "name": "Gpt Oss 120B Gguf",
+    "quantization": "Q8_0",
+    "weight_gb": 46.2,
+    "kv_per_1k_gb": 0.0687,
+    "max_context_k": 131
+  },
+  {
+    "id": "gpt-oss-120b-gguf-q6-k",
+    "name": "Gpt Oss 120B Gguf",
+    "quantization": "Q6_K",
+    "weight_gb": 46.12,
+    "kv_per_1k_gb": 0.0687,
+    "max_context_k": 131
+  },
+  {
+    "id": "llama-3-3-70b-instruct-gguf-q4-k-m",
+    "name": "Llama 3.3 70B Instruct Gguf",
+    "quantization": "Q4_K_M",
+    "weight_gb": 39.6,
+    "kv_per_1k_gb": 0.3052,
+    "max_context_k": 131
+  },
+  {
+    "id": "llama-3-3-70b-instruct-gguf-q8-0",
+    "name": "Llama 3.3 70B Instruct Gguf",
+    "quantization": "Q8_0",
+    "weight_gb": 37.07,
+    "kv_per_1k_gb": 0.3052,
+    "max_context_k": 131
+  },
+  {
+    "id": "llama-3-3-70b-instruct-gguf-q6-k",
+    "name": "Llama 3.3 70B Instruct Gguf",
+    "quantization": "Q6_K",
+    "weight_gb": 27.88,
+    "kv_per_1k_gb": 0.3052,
+    "max_context_k": 131
   }
 ]
