@@ -324,5 +324,29 @@
     "weight_gb": 27.88,
     "kv_per_1k_gb": 0.3052,
     "max_context_k": 131
+  },
+  {
+    "id": "qwen2-5-vl-7b-instruct-gguf-q4-k-m",
+    "name": "Qwen2.5 Vl 7B Instruct Gguf",
+    "quantization": "Q4_K_M",
+    "weight_gb": 4.36,
+    "kv_per_1k_gb": 0.0534,
+    "max_context_k": 128
+  },
+  {
+    "id": "qwen2-5-vl-7b-instruct-gguf-q8-0",
+    "name": "Qwen2.5 Vl 7B Instruct Gguf",
+    "quantization": "Q8_0",
+    "weight_gb": 7.54,
+    "kv_per_1k_gb": 0.0534,
+    "max_context_k": 128
+  },
+  {
+    "id": "qwen2-5-vl-7b-instruct-gguf-q6-k",
+    "name": "Qwen2.5 Vl 7B Instruct Gguf",
+    "quantization": "Q6_K",
+    "weight_gb": 5.82,
+    "kv_per_1k_gb": 0.0534,
+    "max_context_k": 128
   }
 ]
