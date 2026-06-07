@@ -348,5 +348,13 @@
     "weight_gb": 5.82,
     "kv_per_1k_gb": 0.0534,
     "max_context_k": 128
+  },
+  {
+    "id": "vieneu-tts-v2-q4-k-m",
+    "name": "Vieneu Tts V2",
+    "quantization": "Q4_K_M",
+    "weight_gb": 0.18,
+    "kv_per_1k_gb": 0.021,
+    "max_context_k": 4
   }
 ]
