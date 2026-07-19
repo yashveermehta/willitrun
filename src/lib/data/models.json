@@ -356,5 +356,29 @@
     "weight_gb": 0.18,
     "kv_per_1k_gb": 0.021,
     "max_context_k": 4
+  },
+  {
+    "id": "qwen3-8b-gguf-q4-k-m",
+    "name": "Qwen3 8B Gguf",
+    "quantization": "Q4_K_M",
+    "weight_gb": 4.68,
+    "kv_per_1k_gb": 0.1373,
+    "max_context_k": 41
+  },
+  {
+    "id": "qwen3-8b-gguf-q8-0",
+    "name": "Qwen3 8B Gguf",
+    "quantization": "Q8_0",
+    "weight_gb": 8.11,
+    "kv_per_1k_gb": 0.1373,
+    "max_context_k": 41
+  },
+  {
+    "id": "qwen3-8b-gguf-q6-k",
+    "name": "Qwen3 8B Gguf",
+    "quantization": "Q6_K",
+    "weight_gb": 6.26,
+    "kv_per_1k_gb": 0.1373,
+    "max_context_k": 41
   }
 ]
